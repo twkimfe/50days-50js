@@ -1,8 +1,3 @@
-// - Bring in toggle buttons(querySelectorAll)
-//   - Loop through nodelist(forEach)
-//     - Add click event(addEventListener)
-//       - Toggle the active class on the parent node(.parentnode & classlist.toggle())
-
 const toggles = document.querySelectorAll('.faq-toggle')
 
 toggles.forEach(toggle => {

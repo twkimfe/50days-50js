@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
 
 * {
   box-sizing: border-box;
@@ -64,7 +64,7 @@ h1 {
   margin: 30px 0 0;
 }
 
-.faq-active .faq-text {
+.faq.active .faq-text {
   display: block;
 }
 
